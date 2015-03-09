@@ -1,0 +1,15 @@
+{
+  "name": "@calvinwiebe/foo",
+  "version": "1.0.0",
+  "description": "Testing npme",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "npme"
+  ],
+  "author": "calvin.wiebe@gmail.com",
+  "license": "MIT"
+}
